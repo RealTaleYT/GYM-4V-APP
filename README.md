@@ -2,6 +2,15 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
 
+## Install bootstrap
+
+To install bootstrap, you need to write the next code on the command prompt:
+
+```bash
+npm install bootstrap
+```
+Once the install finish, you can start the development server.
+
 ## Development server
 
 To start a local development server, run:
