@@ -8,6 +8,8 @@ To install bootstrap, you need to write the next code on the command prompt:
 
 ```bash
 npm install bootstrap
+or
+npm install
 ```
 Once the install finish, you can start the development server.
 
